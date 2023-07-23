@@ -12,7 +12,7 @@ intents.members = True
 intents.message_content = True
 
 
-#the command contains a list of the most important arguments for creating embeds
+#the command contains a list of the most important arguments for creating embeds.
 
 @bot.command()
 async def testembed(ctx: commands.Context):
