@@ -47,4 +47,5 @@ async def embed(self, ctx: commands.Context, *, descr: str):
     await ctx.send(embed=embed)
 
 
-bot.run("")
+bot.run("Your Bot token")
+#You get the discord bot token from this website: https://discord.com/developers/applications
